@@ -1,2 +1,2 @@
 # javaproject
-Creating a java programs
+Creating java programs
